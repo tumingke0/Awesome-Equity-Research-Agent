@@ -52,6 +52,9 @@ In 2026, "AI Copilots" have evolved into **Autonomous Research Agents**. This re
 - **[Prospero.ai](https://prospero.ai/)**  
   Autonomous agents for generating **professional-grade equity research reports** and institutional investment theses.
 
+- **[DisconfirmAI](https://disconfirmai.com/en)**  
+  Investment research platform that pushes analysts to gather disconfirming evidence before conviction. Covers daily reading, filing-level research, change radar, and personal investment frameworks.
+
 ---
 
 ## Open-Source GitHub Projects
